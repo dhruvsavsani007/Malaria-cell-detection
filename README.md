@@ -22,11 +22,12 @@ To run this project, you'll need to have the following packages installed:
 * `numpy`
 * `seaborn`
 * `matplotlib`
+* `tensorflow`
 
 You can install these packages using `pip`:
 
 ```bash
-pip install pandas numpy seaborn matplotlib
+pip install pandas numpy seaborn matplotlib tensorflow
 ```
 
 ## Dataset
